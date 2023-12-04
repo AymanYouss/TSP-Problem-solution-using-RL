@@ -17,8 +17,6 @@ You can also change the dataset, provided it follows the same column values as t
 ## Files
 
 1. **main_project.ipynb:** The main file for plotting the optimized solution for the given dataset.
-2. **clean_data:** Dataset with columns suitable for the algorithm.
-3. (Other relevant files)
 
 ## References
 
